@@ -10,7 +10,7 @@
             <label>Title</label>
             <select name="form[title]">
               {% for title in titles %}
-              <option value="{{ title }}">Mr.</option>
+              <option value="{{ title }}" {{ title==form.title?'selected':'' }}>{{ title  | capitalize }}</option>
               {% endfor %}
             </select>
           </div>

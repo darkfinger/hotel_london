@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d68e05a-d5e6-4824-bc31-2ff9e5654ff8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/N/0/TcsDeq5QtbUHj0bUDFNc" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/N/0/TcsDeq5QtbUHj0bUDFNc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/Q/A/JDA0EGnAhzOr1lxB1b3A" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/Q/A/JDA0EGnAhzOr1lxB1b3A" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/clients/form.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/clients/form.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/ClientsController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/ClientsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/8/5/ydI7NzrdwhUb0IE7pmEJ" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/8/5/ydI7NzrdwhUb0IE7pmEJ" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/H/E/j3OZSt3fAQYtPm9EvhkG" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/H/E/j3OZSt3fAQYtPm9EvhkG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/R/F/mBPoC0Vu7N88eR4heuFz" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/R/F/mBPoC0Vu7N88eR4heuFz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/Y/G/V-04Dc+168Qcemdtmbt8" afterPath="$PROJECT_DIR$/var/cache/dev/pools/gkqPLGqEFS/Y/G/V-04Dc+168Qcemdtmbt8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" afterPath="$PROJECT_DIR$/var/cache/dev/profiler/index.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/cache/dev/twig/f1/f18331c8ea75bec2a29e98b1476fb9f6cf0084765d0fe46307576f26fe1eaeeb.php" afterPath="$PROJECT_DIR$/var/cache/dev/twig/f1/f18331c8ea75bec2a29e98b1476fb9f6cf0084765d0fe46307576f26fe1eaeeb.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/var/logs/dev.log" afterPath="$PROJECT_DIR$/var/logs/dev.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +31,18 @@
       <file leaf-file-name="form.html.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/Resources/views/clients/form.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="38" column="78" lean-forward="true" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
+            <state relative-caret-position="252">
+              <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ClientsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="472">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -340,12 +361,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526689524914</updated>
       <workItem from="1526689526231" duration="6274000" />
-      <workItem from="1526696290603" duration="88000" />
+      <workItem from="1526696290603" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6362000" />
+    <option name="totallyTimeSpent" value="7125000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
@@ -458,14 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ClientsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1386">
-          <caret line="69" column="21" lean-forward="false" selection-start-line="69" selection-start-column="21" selection-end-line="69" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ReservationsController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -482,10 +495,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ClientsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/clients/form.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="38" column="78" lean-forward="true" selection-start-line="38" selection-start-column="78" selection-end-line="38" selection-end-column="78" />
+        <state relative-caret-position="252">
+          <caret line="12" column="79" lean-forward="false" selection-start-line="12" selection-start-column="79" selection-end-line="12" selection-end-column="79" />
           <folding />
         </state>
       </provider>
