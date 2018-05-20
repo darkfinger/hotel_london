@@ -3,6 +3,7 @@
 namespace AppBundle\Controller;
 
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
+use Symfony\Component\DependencyInjection\ContainerInterface;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\Request;
@@ -42,6 +43,11 @@ class ClientsController extends Controller
             'email' => 'cshaw@example.com'
         ]
     ];
+
+    static function d()
+    {
+        return "ok";
+    }
 
     private $titles = ['mr', 'ms', 'mrs', 'dr', 'mx'];
 
