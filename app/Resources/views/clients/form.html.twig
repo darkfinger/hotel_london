@@ -4,7 +4,7 @@
 
     <div class="row">
       <div class="medium-12 large-12 columns">
-        <h4>New Client</h4>
+        <h4>{{ mode=='new_client'?'Add new client':'Modify client' }}</h4>
         <form action="" method="post">
           <div class="medium-4  columns">
             <label>Title</label>
@@ -20,7 +20,7 @@
           </div>
           <div class="medium-4  columns">
             <label>Last Name</label>
-            <input name="form[lastName]" value="{{ form.name is defined ? form.last_name:'' }}" type="text" />
+            <input name="form[last_name]" value="{{ form.name is defined ? form.last_name:'' }}" type="text" />
           </div>
           <div class="medium-8  columns">
             <label>Address</label>
@@ -28,7 +28,7 @@
           </div>
           <div class="medium-4  columns">
             <label>zip_code</label>
-            <input name="form[zipCode]" value="{{ form.name is defined ? form.zip_code:'' }}" type="text" />
+            <input name="form[zip_code]" value="{{ form.name is defined ? form.zip_code:'' }}" type="text" />
           </div>
           <div class="medium-4  columns">
             <label>City</label>

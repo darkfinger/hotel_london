@@ -21,35 +21,38 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
 
     protected function doDisplay(array $context, array $blocks = array())
     {
-        $__internal_308a65d5ee65a8595857980145d52e804c6b80400a3b84b9bc57ec34fbc594d7 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_308a65d5ee65a8595857980145d52e804c6b80400a3b84b9bc57ec34fbc594d7->enter($__internal_308a65d5ee65a8595857980145d52e804c6b80400a3b84b9bc57ec34fbc594d7_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "clients/form.html.twig"));
+        $__internal_5908e447876292869028abbb1ee36fb2a22bc3b7a8b0c0f6fb4baf41b02cf8fb = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_5908e447876292869028abbb1ee36fb2a22bc3b7a8b0c0f6fb4baf41b02cf8fb->enter($__internal_5908e447876292869028abbb1ee36fb2a22bc3b7a8b0c0f6fb4baf41b02cf8fb_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "clients/form.html.twig"));
 
-        $__internal_7cc16e429b2190b6d2e9f42026ec81a0d3dfb618db9baab26bbf0142396e2ebf = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_7cc16e429b2190b6d2e9f42026ec81a0d3dfb618db9baab26bbf0142396e2ebf->enter($__internal_7cc16e429b2190b6d2e9f42026ec81a0d3dfb618db9baab26bbf0142396e2ebf_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "clients/form.html.twig"));
+        $__internal_b190c82c17143d468ac9ee86b73adcd995cca7615300041fcb50d464887f57fb = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_b190c82c17143d468ac9ee86b73adcd995cca7615300041fcb50d464887f57fb->enter($__internal_b190c82c17143d468ac9ee86b73adcd995cca7615300041fcb50d464887f57fb_prof = new Twig_Profiler_Profile($this->getTemplateName(), "template", "clients/form.html.twig"));
 
         $this->parent->display($context, array_merge($this->blocks, $blocks));
         
-        $__internal_308a65d5ee65a8595857980145d52e804c6b80400a3b84b9bc57ec34fbc594d7->leave($__internal_308a65d5ee65a8595857980145d52e804c6b80400a3b84b9bc57ec34fbc594d7_prof);
+        $__internal_5908e447876292869028abbb1ee36fb2a22bc3b7a8b0c0f6fb4baf41b02cf8fb->leave($__internal_5908e447876292869028abbb1ee36fb2a22bc3b7a8b0c0f6fb4baf41b02cf8fb_prof);
 
         
-        $__internal_7cc16e429b2190b6d2e9f42026ec81a0d3dfb618db9baab26bbf0142396e2ebf->leave($__internal_7cc16e429b2190b6d2e9f42026ec81a0d3dfb618db9baab26bbf0142396e2ebf_prof);
+        $__internal_b190c82c17143d468ac9ee86b73adcd995cca7615300041fcb50d464887f57fb->leave($__internal_b190c82c17143d468ac9ee86b73adcd995cca7615300041fcb50d464887f57fb_prof);
 
     }
 
     // line 3
     public function block_body($context, array $blocks = array())
     {
-        $__internal_0e756932d7e01916b5da138787a636b6b3071987dfab63a20947b5d6a2e31978 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
-        $__internal_0e756932d7e01916b5da138787a636b6b3071987dfab63a20947b5d6a2e31978->enter($__internal_0e756932d7e01916b5da138787a636b6b3071987dfab63a20947b5d6a2e31978_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_252cb34bca7ae93d1a7b6588e810f921f7b805eb735a8a5e734ae18373f56bb6 = $this->env->getExtension("Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension");
+        $__internal_252cb34bca7ae93d1a7b6588e810f921f7b805eb735a8a5e734ae18373f56bb6->enter($__internal_252cb34bca7ae93d1a7b6588e810f921f7b805eb735a8a5e734ae18373f56bb6_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        $__internal_2714d974dfe40cce41d62305e218248b43e6ac8a4a3c0dd3e3d0f1fd839e8cba = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
-        $__internal_2714d974dfe40cce41d62305e218248b43e6ac8a4a3c0dd3e3d0f1fd839e8cba->enter($__internal_2714d974dfe40cce41d62305e218248b43e6ac8a4a3c0dd3e3d0f1fd839e8cba_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
+        $__internal_c45ed7305e18c619937683a843a8a60682f15987c2a37b23cff0132edb71b14a = $this->env->getExtension("Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension");
+        $__internal_c45ed7305e18c619937683a843a8a60682f15987c2a37b23cff0132edb71b14a->enter($__internal_c45ed7305e18c619937683a843a8a60682f15987c2a37b23cff0132edb71b14a_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
         // line 4
         echo "
     <div class=\"row\">
       <div class=\"medium-12 large-12 columns\">
-        <h4>New Client</h4>
+        <h4>";
+        // line 7
+        echo (((($context["mode"] ?? $this->getContext($context, "mode")) == "new_client")) ? ("Add new client") : ("Modify client"));
+        echo "</h4>
         <form action=\"\" method=\"post\">
           <div class=\"medium-4  columns\">
             <label>Title</label>
@@ -84,7 +87,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
           </div>
           <div class=\"medium-4  columns\">
             <label>Last Name</label>
-            <input name=\"form[lastName]\" value=\"";
+            <input name=\"form[last_name]\" value=\"";
         // line 23
         echo twig_escape_filter($this->env, (($this->getAttribute(($context["form"] ?? null), "name", array(), "any", true, true)) ? ($this->getAttribute(($context["form"] ?? $this->getContext($context, "form")), "last_name", array())) : ("")), "html", null, true);
         echo "\" type=\"text\" />
@@ -98,7 +101,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
           </div>
           <div class=\"medium-4  columns\">
             <label>zip_code</label>
-            <input name=\"form[zipCode]\" value=\"";
+            <input name=\"form[zip_code]\" value=\"";
         // line 31
         echo twig_escape_filter($this->env, (($this->getAttribute(($context["form"] ?? null), "name", array(), "any", true, true)) ? ($this->getAttribute(($context["form"] ?? $this->getContext($context, "form")), "zip_code", array())) : ("")), "html", null, true);
         echo "\" type=\"text\" />
@@ -133,10 +136,10 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
 
 ";
         
-        $__internal_2714d974dfe40cce41d62305e218248b43e6ac8a4a3c0dd3e3d0f1fd839e8cba->leave($__internal_2714d974dfe40cce41d62305e218248b43e6ac8a4a3c0dd3e3d0f1fd839e8cba_prof);
+        $__internal_c45ed7305e18c619937683a843a8a60682f15987c2a37b23cff0132edb71b14a->leave($__internal_c45ed7305e18c619937683a843a8a60682f15987c2a37b23cff0132edb71b14a_prof);
 
         
-        $__internal_0e756932d7e01916b5da138787a636b6b3071987dfab63a20947b5d6a2e31978->leave($__internal_0e756932d7e01916b5da138787a636b6b3071987dfab63a20947b5d6a2e31978_prof);
+        $__internal_252cb34bca7ae93d1a7b6588e810f921f7b805eb735a8a5e734ae18373f56bb6->leave($__internal_252cb34bca7ae93d1a7b6588e810f921f7b805eb735a8a5e734ae18373f56bb6_prof);
 
     }
 
@@ -152,7 +155,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
 
     public function getDebugInfo()
     {
-        return array (  124 => 43,  117 => 39,  110 => 35,  103 => 31,  96 => 27,  89 => 23,  82 => 19,  76 => 15,  63 => 13,  59 => 12,  49 => 4,  40 => 3,  11 => 1,);
+        return array (  127 => 43,  120 => 39,  113 => 35,  106 => 31,  99 => 27,  92 => 23,  85 => 19,  79 => 15,  66 => 13,  62 => 12,  54 => 7,  49 => 4,  40 => 3,  11 => 1,);
     }
 
     /** @deprecated since 1.27 (to be removed in 2.0). Use getSourceContext() instead */
@@ -171,7 +174,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
 
     <div class=\"row\">
       <div class=\"medium-12 large-12 columns\">
-        <h4>New Client</h4>
+        <h4>{{ mode=='new_client'?'Add new client':'Modify client' }}</h4>
         <form action=\"\" method=\"post\">
           <div class=\"medium-4  columns\">
             <label>Title</label>
@@ -187,7 +190,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
           </div>
           <div class=\"medium-4  columns\">
             <label>Last Name</label>
-            <input name=\"form[lastName]\" value=\"{{ form.name is defined ? form.last_name:'' }}\" type=\"text\" />
+            <input name=\"form[last_name]\" value=\"{{ form.name is defined ? form.last_name:'' }}\" type=\"text\" />
           </div>
           <div class=\"medium-8  columns\">
             <label>Address</label>
@@ -195,7 +198,7 @@ class __TwigTemplate_2185ba714e4f299335165693dc013b5661b49ce717c9d8eacb3a232737c
           </div>
           <div class=\"medium-4  columns\">
             <label>zip_code</label>
-            <input name=\"form[zipCode]\" value=\"{{ form.name is defined ? form.zip_code:'' }}\" type=\"text\" />
+            <input name=\"form[zip_code]\" value=\"{{ form.name is defined ? form.zip_code:'' }}\" type=\"text\" />
           </div>
           <div class=\"medium-4  columns\">
             <label>City</label>
